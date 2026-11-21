@@ -1,0 +1,1 @@
+tailwind.config={theme:{extend:{colors:{midnight:'#1E3E45',deepTeal:'#274C56',mutedTeal:'#3B6A78',warmSand:'#D4C8B7',softCream:'#E8E1CD',ivory:'#EBE5D7',gold:'#F7B829'},fontFamily:{heading:['Playfair Display','Georgia','serif'],body:['Lato','Arial','sans-serif']},screens:{xs:'375px',sm:'640px',md:'768px',lg:'1024px',xl:'1280px'}}}};
